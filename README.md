@@ -14,6 +14,7 @@ and you had a convenient linear follow up test run in the log.
 Therefore, before calling functions for test items, you must use the **await** keyword.
 If **await** is not specified, an exception will be thrown and the test will be interrupted.
 
+![Javascript example](js_example.jpg)
 ``` JavaScript
 var result = await fee8f449();
 log(result);  
